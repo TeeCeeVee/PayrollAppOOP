@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\JobSourceApp\bin\Debug\JobSourceApp.exe.config
+C:\Users\theav\source\repos\JobSourceApp\bin\Debug\JobSourceApp.exe
+C:\Users\theav\source\repos\JobSourceApp\bin\Debug\JobSourceApp.pdb
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.Form1.resources
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.Properties.Resources.resources
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.exe
+C:\Users\theav\source\repos\JobSourceApp\obj\Debug\JobSourceApp.pdb
